@@ -1,6 +1,6 @@
 # 🔗 URL Shortener - Link Shortening Service
 
-![URL Shortener](https://github.com/user-attachments/assets/your-screenshot-url)
+![URL Shortener](https://github.com/Thirtynader/URL-Shortener-Link-Shortening-Script/blob/main/Screenshotshorturl.png)
 
 A modern, secure URL shortener with domain restrictions and beautiful starry UI design.
 
@@ -72,7 +72,7 @@ function generateRandomSlug($length = 6) { // Change 6 to desired length
 
 ## 💰 Price
 
-**$10 USD**
+💲 Price: $10 | Lifetime Access | Free Updates
 
 ## 📧 Contact
 
@@ -86,8 +86,6 @@ Copyright © 2013-2025 1hesekhob.com - Powered by Thirtynader
 ---
 
 # 🔗 کوتاه کننده لینک - سرویس کوتاه‌سازی URL
-
-![کوتاه کننده لینک](https://github.com/user-attachments/assets/your-screenshot-url)
 
 یک کوتاه‌کننده لینک مدرن و امن با محدودیت دامنه و طراحی زیبای ستاره‌ای.
 
